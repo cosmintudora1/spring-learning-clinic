@@ -1,4 +1,4 @@
-package model;
+package cosmin.learnspring.SpringLearningClinic.model.model;
 
 public class PetType {
 

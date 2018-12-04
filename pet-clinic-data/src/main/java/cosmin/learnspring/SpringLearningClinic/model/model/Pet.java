@@ -1,9 +1,8 @@
-package model;
+package cosmin.learnspring.SpringLearningClinic.model.model;
 
 import javax.persistence.Entity;
 import java.time.LocalDate;
 
-@Entity
 public class Pet {
 
     private PetType petType;
