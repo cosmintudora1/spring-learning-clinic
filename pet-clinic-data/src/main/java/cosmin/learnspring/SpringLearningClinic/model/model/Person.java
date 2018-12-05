@@ -1,9 +1,5 @@
 package cosmin.learnspring.SpringLearningClinic.model.model;
 
-import org.springframework.stereotype.Component;
-
-import javax.persistence.Entity;
-
 public class Person {
 
     private String firstName;
