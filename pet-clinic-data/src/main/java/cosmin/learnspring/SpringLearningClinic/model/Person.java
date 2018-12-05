@@ -1,4 +1,4 @@
-package cosmin.learnspring.SpringLearningClinic.model.model;
+package cosmin.learnspring.SpringLearningClinic.model;
 
 public class Person {
 
