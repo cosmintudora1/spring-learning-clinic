@@ -52,7 +52,6 @@
 
 	<scm>
 		<developerConnection>scm:git:https://github.com/cosmintudora1/spring-learning-clinic.git</developerConnection>
-	  <tag>first release</tag>
   </scm>
 
 
