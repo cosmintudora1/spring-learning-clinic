@@ -3,7 +3,7 @@
     <parent>
         <artifactId>spring-learning-clinic</artifactId>
         <groupId>cosmin.learnspring</groupId>
-        <version>0.0.3-SNAPSHOT</version>
+        <version>${clinic.project.version}</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
