@@ -4,7 +4,7 @@
 
 	<groupId>cosmin.learnspring</groupId>
 	<artifactId>spring-learning-clinic</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>${clinic.project.version}</version>
     <modules>
         <module>pet-clinic-data</module>
 		<module>pet-clinic-web</module>
@@ -25,6 +25,8 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
+		<clinic.project.version>0.0.2-SNAPSHOT</clinic.project.version>
+		<spring.pet.clinic.data.version>0.0.2-SNAPSHOT</spring.pet.clinic.data.version>
 	</properties>
 
 
