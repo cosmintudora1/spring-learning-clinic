@@ -4,7 +4,7 @@
 
 	<groupId>cosmin.learnspring</groupId>
 	<artifactId>spring-learning-clinic</artifactId>
-	<version>0.0.3-SNAPSHOT</version>
+	<version>0.0.4-SNAPSHOT</version>
     <modules>
         <module>pet-clinic-data</module>
 		<module>pet-clinic-web</module>
@@ -54,6 +54,7 @@
 
 	<scm>
 		<developerConnection>scm:git:https://github.com/cosmintudora1/spring-learning-clinic.git</developerConnection>
+    <tag>spring-learning-clinic-0.0.2</tag>
   </scm>
 
 
